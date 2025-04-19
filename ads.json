@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test",
+        "type": "community",
+        "author": "juicedcar",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/juicedcar/gluu",
+        "githubUri": "https://github.com/juicedcar/gluu",
+        "license": "apache-2.0",
+        "lastUpdated": "1745066059556",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
